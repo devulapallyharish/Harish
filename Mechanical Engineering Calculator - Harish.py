@@ -193,7 +193,7 @@ def calculate_shaft_diameter():
 
 
 def main():
-    st.title("⚙️ Complete Mechanical Engineering Calculator")
+    st.title("⚙️ Mechanical Engineering Calculator")
     
     # Sidebar navigation
     st.sidebar.header("Select Module")
