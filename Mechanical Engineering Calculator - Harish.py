@@ -246,7 +246,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```<ElicitationsGroup>
-<FollowUp>Are there any specific visual customizations you want to add, such as charts or custom CSS styling?</FollowUp>
-<FollowUp>Would you like to deploy this app so others can access it publicly?</FollowUp>
-</ElicitationsGroup>
